@@ -15,6 +15,6 @@ This calculator can perform basic arithmetic operations such as addition, subtra
 ---
 
 ## 🧩 Technologies Used
-- **HTML5** – Structure of the calculator  
-- **CSS3** – Styling and layout design  
-- **JavaScript (ES6)** – Functional logic and interactivity
+- **HTML** – Structure of the calculator  
+- **CSS** – Styling and layout design  
+- **JavaScript (script)** – Functional logic and interactivity
